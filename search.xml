@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="search.xsl?>
+<services>
+	<product>
+		<type>Brush</type>
+		<price>$27.99</price>
+		<descripton>Boar's hair brush.</descripton>
+	</product>
+	<product>
+		<type>Comb</type>
+		<price>$10.00</price>
+		<descripton>Beardbrand pocket beard comb.</descripton>
+	</product>
+	<product>
+		<product>Wash</product>
+		<price>$27.00</price>
+		<descripton>Tree ranger beard wash.</descripton>
+	</product>
+	<product>
+		<type>Oil</type>
+		<price>$25.00</price>
+		<descripton>Tree ranger beard oil.</descripton>
+	</product>
+	<product>
+		<type>Scissors</type>
+		<price>$49.99</price>
+		<descripton>Beard trimming scissors.</descripton>
+	</product>
+	<product>
+		<type>Softener</type>
+		<price>$27.00</price>
+		<descripton>Tree ranger beard softener.</descripton>
+	</product>
+</services>

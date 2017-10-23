@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+	<item>
+		<title>HOME</title>
+		<link>http://www.barbershop.ueuo.com/index.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Key informations about our Barber shop.</description>
+	</item>
+	<item>
+		<title>ABOUT</title>
+		<link>http://www.barbershop.ueuo.com/about.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>All informations about author.</description>
+	</item>
+	<item>
+		<title>GALLERY</title>
+		<link>http://www.barbershop.ueuo.com/gallery.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Pictures of our customers.</description>
+	</item>
+	<item>
+		<title>SERVICES</title>
+		<link>http://www.barbershop.ueuo.com/services.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Prices of our services.</description>
+	</item>
+	<item>
+		<title>PRODUCTS</title>
+		<link>http://www.barbershop.ueuo.com/products.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Products of our shop and their prices.</description>
+	</item>
+	<item>
+		<title>STORYLINE</title>
+		<link>http://www.barbershop.ueuo.com/story.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Vision of our company.</description>
+	</item>
+	<item>
+		<title>FAMOUS</title>
+		<link>http://www.barbershop.ueuo.com/famous.html</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Picture of celebrity stars that grow beard.</description>
+	</item>
+	<item>
+		<title>CONTACT</title>
+		<link>http://www.barbershop.ueuo.com/contact.com</link>
+		<author>Aleskandar Atlagić</author>
+		<description>Register on our site for easier use.</description>
+	</item>
+</channel>
+</rss>
